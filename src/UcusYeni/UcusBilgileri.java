@@ -1,8 +1,8 @@
 package UcusYeni;
 
-import static Projects.UcusYeni.RunnerSon.*;
-import static Projects.UcusYeni.TekCiftYonKont.TekCiftYonKont;
-import static Projects.UcusYeni.UlKont.*;
+import static UcusYeni.RunnerSon.*;
+import static UcusYeni.TekCiftYonKont.TekCiftYonKont;
+import static UcusYeni.UlKont.*;
 
 public class UcusBilgileri {
     static int gGun=0;

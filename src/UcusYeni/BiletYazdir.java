@@ -1,10 +1,10 @@
 package UcusYeni;
 
-import static Projects.UcusYeni.Kimlik.ad;
-import static Projects.UcusYeni.Kimlik.soyAd;
-import static Projects.UcusYeni.RunnerSon.*;
-import static Projects.UcusYeni.UcusBilgileri.*;
-import static Projects.UcusYeni.YasKontrol.yolcuS;
+import static UcusYeni.Kimlik.ad;
+import static UcusYeni.Kimlik.soyAd;
+import static UcusYeni.RunnerSon.*;
+import static UcusYeni.UcusBilgileri.*;
+import static UcusYeni.YasKontrol.yolcuS;
 
 public class BiletYazdir {
     public static void BiletYazdir() {
