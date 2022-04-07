@@ -1,6 +1,6 @@
 package UcusYeni;
 
-import static Projects.UcusYeni.RunnerSon.*;
+import static UcusYeni.RunnerSon.*;
 
 public class YasKontrol {
     static int yolcuS;
