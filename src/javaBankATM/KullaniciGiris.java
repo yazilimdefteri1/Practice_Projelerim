@@ -20,11 +20,6 @@ public class KullaniciGiris {
     public static void Kullanici() {
 
         Scanner scan = new Scanner(System.in);
-        //String kartNoGir;
-        //String sifreGir;
-
-
-
 
             do {
                 System.out.print("Lutfen kullanici adinizi giriniz : ");
